@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  background-color: #111;
+  color: #ccc;
+  font-family: 'Orbitron', sans-serif; /* futuristic style */
+  text-align: center;
+  padding-top: 5rem;
+}
+
+h1 {
+  font-size: 2rem;
+  color: silver;
+  text-shadow: 2px 2px 4px #000;
+}
+
+h1 span {
+  display: block;
+  font-size: 1rem;
+  color: #aaa;
+}
+
+h2 {
+  font-weight: 300;
+  color: #888;
+  margin-bottom: 2rem;
+}
+
+.logo {
+  width: 200px;
+  margin-top: 20px;
+}
+
+/* Importing a Google Font with a steel/futuristic vibe */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
