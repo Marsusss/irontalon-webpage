@@ -1,8 +1,8 @@
 body {
   margin: 0;
-  background-color: #111;
+  background-color: #000; /* pure pitch black */
   color: #ccc;
-  font-family: 'Orbitron', sans-serif; /* futuristic style */
+  font-family: 'Orbitron', sans-serif;
   text-align: center;
   padding-top: 5rem;
 }
